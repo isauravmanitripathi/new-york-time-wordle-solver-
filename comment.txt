@@ -1,7 +1,0 @@
-we are going to write the main first, and then wordle and then solver  
-
-so it might show some errors at first, but it will be alright  
-
-going to fix this error after some time, till then let's continue 
-
-now we need to write a function to reset the game 
